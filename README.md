@@ -1,4 +1,5 @@
-![image](https://github.com/impragya08/impragya08/assets/84717393/d102d184-74f1-4fd5-837b-4d4a3c2bf14b)
+![thisis pragyasrivastava@gmail com](https://github.com/impragya08/impragya08/assets/84717393/47323dae-e7f7-455e-8ed6-0b5cd1cabc84)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
