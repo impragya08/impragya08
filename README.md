@@ -1,4 +1,5 @@
-![thisis pragyasrivastava@gmail com](https://github.com/impragya08/impragya08/assets/84717393/47323dae-e7f7-455e-8ed6-0b5cd1cabc84)
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/impragya08/impragya08/assets/84717393/5217dcce-2d5f-4b76-941e-404b6f0ab529)
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
