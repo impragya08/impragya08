@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Protector's Eye- Centralizing news on an app**
+ 🔭 I’m currently working on ** Senseii-personalized AI assistant that will be there at every step of it's user's personal growth Journey **
  
  🌱 I’m currently learning **React Native, Tensorflow and Skitlearn**
 
