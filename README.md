@@ -1,5 +1,10 @@
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/impragya08/impragya08/assets/84717393/5217dcce-2d5f-4b76-941e-404b6f0ab529)
 
+<div align="center">
+    <img  src="https://github.com/impragya08/impragya08/assets/84717393/c1d42bc9-0bf0-48ad-8ab0-35da6daa5bed" />
+</div>
+
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -13,7 +18,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Senseii: personalized AI assistant that will be there at every step of it's user's personal growth Journey**
+ 🔭 I’m currently working on **Senseii: a personalized AI assistant that will be there at every step of its user's personal growth Journey**
  
  🌱 I’m currently learning **React Native, Tensorflow and Skitlearn**
 
