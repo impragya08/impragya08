@@ -18,11 +18,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[Senseii] (https://github.com/Senseii-ai) : a personalized AI assistant that will be there at every step of its user's personal growth Journey**
+ 🔭 I’m currently working on  [Senseii](https://github.com/Senseii-ai): a personalized AI assistant that will be there at every step of its user's personal growth Journey
  
  🌱 I’m currently learning **React Native, Tensorflow and Skitlearn**
 
- 💬 Documenting my daily learning  [here](https://twitter.com/itsPragya028)**
+ 💬 Documenting my daily learning on [Twitter](https://twitter.com/itsPragya028)**
 
  ⚡  The fact that keeps me going- **"I have promises to keep and miles to go before I sleep"**
  
