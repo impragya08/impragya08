@@ -18,7 +18,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Senseii: a personalized AI assistant that will be there at every step of its user's personal growth Journey**
+ 🔭 I’m currently working on **[Senseii] (https://github.com/Senseii-ai) : a personalized AI assistant that will be there at every step of its user's personal growth Journey**
  
  🌱 I’m currently learning **React Native, Tensorflow and Skitlearn**
 
